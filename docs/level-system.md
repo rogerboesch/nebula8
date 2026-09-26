@@ -509,7 +509,7 @@ Additional tiles needed:
 ## File Structure
 
 ```
-sandbox-zx/
+nebula8/
 ├── src/
 │   ├── level.h            # Data structures, constants, API declarations
 │   ├── level.c            # Runtime level logic
